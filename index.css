@@ -1,0 +1,167 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+#subhead{
+    font-size: 2rem;
+    margin-top: 0;
+    color:#242F9B;
+}
+a{
+    color:#242F9B;
+    text-decoration: none;
+    margin:10px 20px 10px 20px;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    padding-top: 50px;
+    margin-bottom: 0;
+    font-family: 'Square Peg', cursive;
+    font-size: 6rem;
+    color: #06283D;
+    line-height:2;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color:#242F9B;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.6rem;
+    color:#1363DF;
+}
+span{
+    text-decoration: underline;
+
+}
+
+
+
+.topcontainer{
+    position: relative;
+    padding-top : 50px;
+    background-color: #47B5FF;
+    
+}
+.middlecontainer{
+    padding-top: 50px;
+    background-color:#DFF6FF;
+    padding-bottom: 40px;
+
+}
+hr {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-style:none;
+    border-top-style:dotted;
+    border-color:black;
+    border-width:5px;
+    width: 10%;
+    
+}
+
+.bottomcontainer{
+    padding-top:40px;
+    background-color: #47B5FF;
+
+
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.oneimg{
+    width: 25%;
+    float: left;
+    margin-right:30px;
+}
+
+.threeimg{
+    width: 25%;
+    float: left;
+    margin-right:30px;
+}
+
+.twoimg{
+    width: 25%;
+    float: right;
+    margin-left:30px;
+}
+
+#stick{
+    text-align: right;
+}
+.footer-link{
+    line-height: 3;
+
+    padding-top: 30px;
+}
+
+.btn {
+    padding-bottom: 30px;
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to baottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+.profile .skills .contact-me{
+    padding: 50px 0 50px 0;
+}
+
+#profile{
+    height:250px;
+    width: 250px;
+    border-radius: 100px;
+}
+
+a:hover{
+    color:#EAF6F6
+}
+
+.copyright{
+    color:#EAF6F6;
+    font-size:0.92em;
+}
+
+.topimage{
+    position: absolute;
+    left : 300px;
+    top : 125px
+}
+
+.bottomimage{
+    position: absolute;
+    right : 300px;
+    bottom : 300px
+    
+}
